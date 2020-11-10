@@ -1,0 +1,12 @@
+.productinfo{
+    text-align: center;
+}
+.choose ul li a{
+    width: 50%;
+    color: #B3AFA8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    padding-left: 0;
+    padding-right: 0;
+    float: left;
+}

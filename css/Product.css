@@ -1,0 +1,9 @@
+.myproduct{
+    margin-bottom: 50px;
+}
+.myproduct table thead{
+    background-color: #FE980F;
+}
+.myproduct table thead th{
+    padding-right: 155px;
+}
